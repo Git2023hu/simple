@@ -1,0 +1,9 @@
+1、下载qt5.9.2：
+进入网页：https://download.qt.io/archive/qt/5.9/5.9.2/
+选择qt-opensource-linux-x64-5.9.2.run下载
+
+
+2、下载完毕，需要修改run文件的模式：
+>chmod +x ./path-to-file
+
+3、在Files中双击该文件，按照提示安装即可。
